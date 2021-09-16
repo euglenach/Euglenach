@@ -1,4 +1,13 @@
 ### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=euglenach&show_icons=true&theme=dracula)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=euglenach&layout=compact&theme=dracula)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/euglenach/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <!--
 **euglenach/Euglenach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
