@@ -1,17 +1,17 @@
 # [![](https://github.githubassets.com/favicons/favicon.png)](https://github.com/euglenach)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=56% height=56% align="left" src="https://github-readme-stats.vercel.app/api?username=euglenach&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=euglenach&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euglenach&layout=compact&theme=dracula" alt="" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euglenach&layout=compact&theme=dracula" alt="" />
 </a>
 
 <table>
   <tr>
     <td>You are visitor</td>
-    <td  width="222"><img src="https://profile-counter.glitch.me/euglenach/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/euglenach/count.svg" alt="" /></td>
   </tr>
 </table>
 
